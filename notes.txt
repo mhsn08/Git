@@ -1,0 +1,17 @@
+Basic Commands
+	git init					// Initialize Local Git Repo
+	git add <file>				// Add File(s) to Index
+	git status					// Check status of working tree
+	git commit					// Commit changes in Index
+	git push					// Push to remote repo
+	git pull					// Pull latest from remote repo
+	git clone					// Clone repo into a new directory
+
+git add *.html
+git add .
+git commit
+git commit -m 'changed app.js'
+git status
+git branch something
+git checkout something
+
